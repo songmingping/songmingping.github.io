@@ -1,17 +1,18 @@
 ---
-title: Adaptive Audience
-summary: An example of using the in-built project page.
+title: Adaptive Audience(in submission for CHI PLAY 24,more details will released after publication)
+summary: a system enhancing VR exergame experiences by adapting to player emotions. It employs reinforcement learning to dynamically adjust NPC behavior, sound, and scale based on real-time emotional feedback. Focusing on positive, neutral, and negative audience types, the system aims to create immersive, emotionally resonant gaming experiences. This innovation extends beyond gaming, offering insights into emotional interaction and the potential of adaptive technology in entertainment.
 tags:
+  - Reinforcement learning
+  - Human-Computer Interaction
   - Deep Learning
-  - Machine learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point: 
 
 # links:
 #   - icon: twitter
@@ -31,12 +32,14 @@ image:
 # slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In the virtual realms of reality, where digital landscapes blend seamlessly with human interaction, lies the frontier of our study: AdaptiveAudience, a groundbreaking system designed to enhance the player experience in virtual reality (VR) exergames. This study delves into the intricate dance of technology and emotion, exploring how an adaptable audience within these games can dynamically enhance gameplay and player engagement.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+At the core of our exploration is the fascinating intersection of emotion and technology. As we venture into the realm of VR gaming, a domain where physical exertion intertwines with digital interaction, we encounter a unique opportunity: to transcend traditional gaming experiences by integrating emotional adaptability. The AdaptiveAudience system, a sophisticated amalgamation of technology and human insight, stands at the forefront of this endeavor.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+This innovative system, designed with a keen understanding of player emotions, adjusts the behavior, sound, and scale of Non-Player Characters (NPCs) based on real-time monitoring of player emotions during gameplay. By harnessing the power of reinforcement learning algorithms, AdaptiveAudience ushers in a new era of gaming – one where the emotional state of the player is not just recognized but becomes a driving force in the gaming experience.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+![Fig1. Experimental equipment and scenarios](audience.jpg "Fig1. Experimental equipment and scenarios")
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Our study is not just a technical investigation; it's a narrative of human interaction, emotion, and technology. It embodies the quest to create a gaming experience that is not only immersive and engaging but also emotionally resonant. By focusing on three types of audiences – positive, neutral, and negative – and employing advanced algorithms, we aim to create a virtual world that responds and adapts to the player's emotional landscape in real-time.
+
+The implications of this study extend beyond the boundaries of VR exergames. It opens new horizons in understanding player engagement, emotional interaction, and the potential of adaptive technology in entertainment and beyond. In the following pages, we unfold the layers of this innovative study, exploring the depths of emotional adaptability in VR gaming and its transformative impact on player experience.

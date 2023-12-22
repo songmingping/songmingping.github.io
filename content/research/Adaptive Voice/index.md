@@ -1,10 +1,11 @@
 ---
-title: Adaptive Voice
+title: Adaptive Voice（in submission for CHI 24,more details will released after publication ）
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-  - Machine learning
-date: '2016-04-27T00:00:00Z'
+  - Reinforcement learning
+  - Human-Computer Interaction
+  - Virtual Reality
+date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -31,12 +32,12 @@ image:
 # slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In an era where technology seamlessly intertwines with daily life, the role of voice assistants has become increasingly pivotal. However, a critical oversight has persisted in their design — their inability to adapt to the varying mental states of users. Current voice assistants, while efficient, often present messages in a rigid, predefined format, neglecting the dynamic nature of human cognitive load. This static approach can lead to significant discrepancies in user experience; individuals burdened with a heavy mental load might find these messages to be overwhelming, while those at full cognitive capacity might seek more nuanced and detailed information.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+This one-size-fits-all model of voice communication overlooks a fundamental aspect of human interaction: the ability to perceive and adapt to the listener's mental state. Just as a skilled storyteller gauges their audience's engagement and tailors their narrative accordingly, voice interfaces, too, require this level of adaptability to be truly effective.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Recognizing this gap, our study proposes a novel optimization-based approach to voice interface design. This approach is not just about tweaking the level of detail or the speed of speech; it's about a paradigm shift towards a more empathetic and responsive technology. We envision voice assistants that can dynamically alter their message presentation. Furthermore, this adaptation isn't sporadic; it maintains a consistent flow, ensuring that the temporal presentation of messages remains coherent and contextually relevant.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Such an advancement has profound implications. It's not merely a technical enhancement; it's a step towards more humane and intuitive AI. By adapting to the user’s mental state, voice interfaces can transform from mere tools into empathetic companions, capable of offering assistance that's tailored not just to the task at hand, but to the psychological state of the user. This study, therefore, not only addresses a technological challenge but also embarks on a journey towards redefining the interaction between humans and machines.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The data from both studies were analyzed to assess the effectiveness of the Linear Integrated Optimization algorithm in adapting voice messages to the users' cognitive loads. Insights from this analysis were used to refine the algorithm, ensuring that it not only meets but exceeds user needs in terms of responsiveness, accuracy, and overall satisfaction.
