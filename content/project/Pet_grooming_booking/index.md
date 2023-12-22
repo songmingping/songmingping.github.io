@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Classification
+title: Pet grooming booking site
 summary: 
 tags:
   - Deep Learning
@@ -22,7 +22,7 @@ image:
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
-url_video: '/project/Pet_grooming_booking/vedio.mp4'
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,6 +31,7 @@ url_video: '/project/Pet_grooming_booking/vedio.mp4'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+{{< video src="pet_video.mp4" controls="yes" >}}
 
 # Machine Learning Project: Student Achievement Classification
 
