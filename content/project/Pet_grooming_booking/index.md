@@ -1,11 +1,10 @@
 ---
 title: Pet grooming booking site
-summary: 
+summary: This is a software engineering project, in this project, I use java, springboot, svm, js and other common networking technologies. A pet grooming appointment system is designed and constructed.
 tags:
-  - Deep Learning
-  - Machine learning
+  - Computer network
   - Data analysis
-date: '2021-10-27T00:00:00Z'
+date: '2022-10-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -33,51 +32,36 @@ image:
 ---
 {{< video src="pet_video.mp4" controls="yes" >}}
 
-# Machine Learning Project: Student Achievement Classification
+# Pet Grooming Appointment System
 
 ## Introduction
-This project applies machine learning algorithms to classify student performance. Traditional methods of categorizing student performance are inefficient and inaccurate. This project utilizes machine learning to optimize this process, providing a more effective solution.
+Welcome to our innovative online pet grooming appointment system, designed to enhance the interaction between pet owners and grooming services. This system allows for efficient booking, managing customer data, and service records, ultimately improving the overall grooming experience.
 
-## Abstract
-The project focuses on feature engineering to optimize dataset features, particularly for student achievement and classification datasets. It implements binary classification to solve open set problems and uses supervised learning algorithms to enhance accuracy.
+## Key Features
 
-## Highlights
-- Feature Engineering: Optimize dataset features to improve machine learning algorithm effectiveness.
-- Binary Classification: Solve open set problems effectively.
-- Supervised Learning Algorithms: Achieve high accuracy in model evaluation.
-- Unsupervised Models: Optimize clustering results based on contour coefficients.
+### User-Friendly Booking Platform
+- **Easy Registration**: Quickly sign up and start using our services.
+- **Groomer Selection**: Choose from a range of groomers with different star ratings and prices.
+- **Personalized Settings**: Customize your appointment with options like service type, pet size, and preferred timings.
+- **Historical Records**: Access past appointment details and statuses directly from the homepage.
 
-## Project Overview
-- **Objective**: Improve the classification of student performance using machine learning.
-- **Methodology**: Utilizing feature engineering, supervised and unsupervised learning algorithms to optimize classification accuracy.
-- **Technologies Used**: Python, scikit-learn, pandas, NumPy, matplotlib.
+### Efficient Store Management
+- **Real-Time Analytics**: Store managers can access current statistics, profit reports, and modify service details.
+- **Appointment Management**: View schedules, cancel orders, and check customer reviews to enhance service quality.
+- **Intelligent Recommendations**: Leverage smart suggestions for upselling and cross-selling opportunities.
 
-## Algorithms Used
-1. **Matrix Decomposition**: By decomposing a large matrix into two smaller matrices, we can reduce dimensionality and compress a large amount of data. This is crucial for handling and analyzing complex datasets efficiently.
-   Example Formula:
-   ```python
-   P[i][k] = P[i][k] + alpha * (2 * eij * Q[k][j] - beta * P[i][k])
-   Q[k][j] = Q[k][j] + alpha * (2 * eij * P[i][k] - beta * Q[k][j])
-   ```
-2. **K-Proximity Algorithm**: Utilized for categorizing data based on the similarity of samples in the feature space, using Euclidean distance for calculations​​.
+## Architecture & Technology
+- **Spring Boot Framework**: For robust back-end architecture.
+- **MyBatis Plus**: Ensuring smooth database interaction.
+- **Thymeleaf Template Engine**: For dynamic front-end rendering.
+- **HTML & CSS**: Crafting a user-friendly interface.
 
-## Open Set Problem
-
-Before training the model, it's crucial to address the open set problem associated with this dataset. This dataset presents an open-set classification challenge due to the existence of category "0". This category not only includes normal categories ranging from 1 to 4 but also encompasses other unknown categories, such as 0. However, these unknown categories lack specific labels, preventing the classifier from recognizing the exact categories of these unknowns based on the existing data. Hence, they collectively form one category: "0". The set S contains N finite categories with specific labels, and S includes K finite or infinite unknown categories. The open set classification challenge is to segregate these N categories and reject these K unknown categories.
-
-To tackle this issue, the Support Vector Machine (SVM) was chosen for its ability to define half-spaces and classify data of any type. This approach results in dividing the half-plane so that the training samples are on one side and the non-training samples on the other. Initially, the data labels were modified to group categories 1-4 into one class and category 0 into a separate class. This modified data was then fed into the SVM for training. During the training phase, the C value was set to 2, the kernel function was 'rbf' (Linear kernels), the gamma parameter was 10, and a one-to-many strategy was employed for training. Further solutions to the open set problem would require algorithmic optimization to address both empirical risk and open set risk, which are not considered in this experiment. The open set identification challenge is defined as minimizing both empirical and open set risks, with this experiment focusing on the SVM method to optimize its open set risk with an F-score as the objective.
-![Fig1. Open set problem training results](Open_set.png "Fig1. Open set problem training results")
-
-## Project Goals
-- To improve the accuracy and efficiency of student performance classification.
-- To implement and compare different machine learning techniques for better results.
-- To develop a scalable and adaptable machine learning model for educational data.
-
-## Repository
-The project's code and additional resources are available on GitHub:
-[Songming Ping's GitHub](https://github.com/songmingping/songmingping.github.io/actions)
+## System Modules
+1. **Reservation Module**: Handle pet type, service type, groomer selection, and appointment timings.
+2. **User Information Module**: Manage user registrations and profile updates with enhanced security.
+3. **Pet Management Module**: Users can add or modify pet information as needed.
+4. **Groomer & Service Management**: Administrators manage groomer information and grooming services.
+5. **Order History and Reviews**: Users can view their appointment history and leave feedback.
 
 ## Conclusion
-This project demonstrates the potential of machine learning in educational data analysis and classification, showcasing significant improvements over traditional methods in both accuracy and efficiency.
-
-
+Our pet grooming appointment system is more than just a technical solution; it's a bridge connecting pet owners with quality grooming services. By focusing on user experience and administrative efficiency, we strive to redefine the grooming industry standards.
