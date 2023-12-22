@@ -22,7 +22,7 @@ image:
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
-url_video: ''
+url_video: '/project/Pet_grooming_booking/vedio.mp4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
