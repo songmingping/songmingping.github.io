@@ -172,17 +172,17 @@ The presence of these high-frequency words may reflect some universal, human the
 
 Based on the analysis of the high-frequency words in the quotes of Albert Einstein, J.K. Rowling and Mark Twain, it is possible to try to combine their background, country and era to understand why these particular words occur frequently in their quotes.
 
-# Albert Einstein:
+### Albert Einstein:
 He was a famous physicist, so "miracle" and "thinking" may be related to his strong interest in science and thinking. His famous theory of relativity has a wide influence in the field of physics.
 "music" probably reflects his love of music. He has said that music has had a positive impact on his scientific work.
 "live" and "life" are related to philosophy of life and outlook on life, which may reflect his thinking on life and human values.
 
-# J.K. Rowling:
+### J.K. Rowling:
 As the author of the harry Potter series of novels, "harry" is obvious because it is the name of the main character.
 "pity" and "choice" may be related to moral decision making and compassion in fiction.
 "stand" and" great" may be related to the novel's themes of courage, persistence, and greatness.
 
-# Mark Twain:
+### Mark Twain:
 He is an important writer in American literature, and "book" and "truth" may be related to his literary works and the pursuit of truth.
 "life" and "people" are generic themes that may refer to his insights on society and human nature.
 "fear" may be related to his critique of society and culture.
@@ -265,20 +265,20 @@ These thresholds were chosen to provide a small buffer around 0 for neutral emot
 3. "music" has 2 positive sentiment quotes.
 4. The tag "inspirational", interestingly, has 2 negative and 1 positive sentiment quotes.
 
-# The following is an analysis of the above results:
+## The following is an analysis of the above results:
 
-## Author Sentiment Analysis:
+### Author Sentiment Analysis:
 The data has been grouped by author,  and the sentiment of the quotes associated with each author has been categorized as "negative," "neutral,"  or "positive."
 J.K. Rowling, Marilyn Monroe,  and Albert Einstein have the highest count of positive sentiment quotes. This suggests that they are associated with  more optimistic or uplifting quotes.
 J.K. Rowling stands out as the author with the highest count of positive sentiment quotes,  indicating that her quotes tend to be positive.
 
-## Country Sentiment Analysis:
+### Country Sentiment Analysis:
 The data has been grouped by the country of the author,  and the sentiment of quotes from authors in each country has been categorized.
 The United States has the highest count of positive sentiment quotes, followed by the United Kingdom.
 This could imply that quotes from authors in the United States and the United Kingdom tend to have a more positive tone.  The "in The United States" category might include authors who were based in the United States.
 Jamaica and Ireland also have a positive sentiment count,  which suggests that authors from these countries contribute positively as well.
 
-## Tag Sentiment Analysis:
+### Tag Sentiment Analysis:
 The data has been expanded to analyze individual tags associated with quotes and their sentiment.
 Tags like "love," "attributed-no-source," and "music" have the highest count of positive sentiment quotes.
 Tags "inspirational" and "elizabeth-bennet, jane-austen" also have a positive sentiment.
