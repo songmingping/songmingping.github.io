@@ -59,9 +59,14 @@ I've implemented an advanced back-end server using Python, with data storage man
 - **Algorithmic Innovation**: Combining Random Forest with Deep Neural Network inputs for accurate thermal comfort predictions.
 - **User Interface**: Developed using Unreal Engine to facilitate user interaction.
 
+### Model structure and performance
+In terms ofgeneralizedprediction, thefine-tuned DNN has the bestperformanceover other models.
+![Figure 2: Model structure and performance](model_performance.jpg "Figure 2: Model structure and performance")
+
 ### Experiment Results
 
-The model consistently outperforms traditional PMV models by accounting for individual variances in thermal comfort, emphasizing the ability to capture personalized preferences.
+In the experiment, three participants provided thermal comfort votes as ground truth.Predictions from the traditional PMV, a deep neural network, and our approach were thencompared against these ground truth values for analysis.
+![Figure 3: Experiment Results](building_result.jpg "Figure 3: Experiment Results")
 
 ### Conclusion & Discussion
 
