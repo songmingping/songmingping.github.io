@@ -1,9 +1,10 @@
 ---
-title: Web Scraping & Sentiment analysis
-summary: In this project, I climb from http://quotes.toscrape.com/ get data and the data including emotion, meaning and so on were analyzed
+title: Pet grooming booking site
+summary: This is a software engineering project, in this project, I use java, springboot, svm, js and other common networking technologies. A pet grooming appointment system is designed and constructed.
 tags:
+  - Computer network
   - Data analysis
-date: '2023-10-27T00:00:00Z'
+date: '2022-10-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
