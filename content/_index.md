@@ -280,8 +280,8 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: 2533485035@qq.com
-      phone: +86 13357729351
+      email: pingsongming13@gmail.com
+      phone: +44 7301394725
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
@@ -295,8 +295,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '31.273504'
-        longitude: '120.739895'  
+        latitude: '51.498356'
+        longitude: '-0.176894'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
