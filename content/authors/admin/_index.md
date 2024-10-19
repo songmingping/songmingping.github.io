@@ -17,12 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: University of Liverpool/Xi 'an Jiaotong-Liverpool University | senior year
+role: Imperial College London | MRes Medical Robotics and Image-Guided Intervention
+role: University of Liverpool/Xi 'an Jiaotong-Liverpool University | Bachelor's degree
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Liverpool/Xi 'an Jiaotong-Liverpool University
     url: https://www.liverpool.ac.uk/  or  https://www.xjtlu.edu.cn/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include human-computer interactive devices, reinforcement learning algorithms, deep learning algorithms, interactive technologies, digital twins, and automated systems.
@@ -40,6 +43,9 @@ education:
     - course: BSc in Information and computer science
       institution: University of Liverpool/Xi 'an Jiaotong-Liverpool University
       year: 2024
+    - course: MRes in Medical Robotics and Image-Guided Intervention
+      institution: Imperial College London
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
