@@ -18,12 +18,10 @@ superuser: true
 
 # Role/position/tagline
 role: Imperial College London | MRes Medical Robotics and Image-Guided Intervention
-role: University of Liverpool/Xi 'an Jiaotong-Liverpool University | Bachelor's degree
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Liverpool/Xi 'an Jiaotong-Liverpool University
-    url: https://www.liverpool.ac.uk/  or  https://www.xjtlu.edu.cn/
   - name: Imperial College London
     url: https://www.imperial.ac.uk/
 
