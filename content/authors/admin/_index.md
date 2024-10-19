@@ -139,9 +139,9 @@ social:
 highlight_name: true
 ---
 
-I am a senior Information and Computing Science student at University of Liverpool/Xi 'an Jiaotong-Liverpool University, specializing in the realms of Human-Computer Interaction and Virtual Reality. At the X-CHI Lab, my research is centered around human-computer interactive devices, reinforcing learning algorithms, deep learning algorithms, interactive technologies, digital twins, and automated systems.
+I am a postgraduate student at MRes in Medical Robotics and Image-Guided Intervention at Imperial College London. I majored in Information and Computational Science at the University of Liverpool/Xi 'an Jiaotong-Liverpool University, majoring in human-computer interaction and virtual reality. At X-CHI LABS, my research focuses on human-computer interaction devices, reinforcement learning algorithms, deep learning algorithms, interactive technologies, digital twins, and automated systems.
 
-My academic endeavors focus on integrating these advanced technological concepts to enhance the efficiency and effectiveness of human-computer interactions. Through my work, I aim to bridge the gap between complex computational theories and practical, user-friendly applications.
+My academic efforts are focused on integrating these advanced technological concepts to improve the efficiency and effectiveness of human-computer interaction. Through my work, I aim to bridge the gap between complex computational theory and practical, user-friendly applications.
 
 Research Skills: Propose questions, Literature review,Design and conduct experiments, Data analysis, Paper Writing, Editvideo and poster. Establish mathematical model
 {style="text-align: justify;"}
